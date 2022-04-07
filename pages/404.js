@@ -11,8 +11,8 @@ const PageNotFound = () => (
           status="critical"
         >
           <p>
-            The page you are trying to reach either no longer exists or never
-            did
+            Oh nooooooo... the page you are trying to reach either no longer
+            exists or never did
           </p>
         </Banner>
       </Layout.Section>
